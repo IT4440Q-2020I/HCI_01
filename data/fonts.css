@@ -1,4 +1,9 @@
 @font-face {
+  font-family: G-Roboto-n9;
+  font-display: swap;
+  src: url('../data/fonts/roboto_v20_KFOlCnqEu92Fr1MmYUtvAx05IsDqlA.ttf');
+}
+@font-face {
   font-family: G-Roboto-n5;
   font-display: swap;
   src: url('../data/fonts/roboto_v20_KFOlCnqEu92Fr1MmEU9vAx05IsDqlA.ttf');
@@ -17,9 +22,4 @@
   font-family: G-Roboto-n7;
   font-display: swap;
   src: url('../data/fonts/roboto_v20_KFOlCnqEu92Fr1MmWUlvAx05IsDqlA.ttf');
-}
-@font-face {
-  font-family: G-Roboto-n9;
-  font-display: swap;
-  src: url('../data/fonts/roboto_v20_KFOlCnqEu92Fr1MmYUtvAx05IsDqlA.ttf');
 }
